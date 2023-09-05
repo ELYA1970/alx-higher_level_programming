@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 def add(a, b):
-    m = int(a) + int(b)
+    m = ord(a) + ord(b)
     print(f"{m}", end='')
     return m
