@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""THis is a class"""
+
+"""Define a class Square."""
+
+
 class Square:
-    """Hi I am here"""
+    """Represent a square."""
     pass
