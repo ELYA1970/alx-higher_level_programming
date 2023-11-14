@@ -1,2 +1,2 @@
 -- Group data
-SELECT score, COUNT(score) AS number GROUP BY score ORDER BY score DESC;
+SELECT score, COUNT(score) AS number GROUP BY score ORDER BY number DESC;
