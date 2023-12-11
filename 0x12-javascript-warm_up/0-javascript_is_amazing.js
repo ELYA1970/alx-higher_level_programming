@@ -1,3 +1,6 @@
 #!/usr/bin/node
-let myVar="Javascript is amazing";
+//Declaring a variable
+let myVar;
+//Setting the value for our variable
+myVar="Javascript is amazing";
 console.log(myVar);
